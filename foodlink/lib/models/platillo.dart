@@ -4,7 +4,7 @@ class Platillo {
   final int id;
   final String nombre;
   final String descripcion;
-  final String? imagenUrl; // Opcional, puede ser null
+  final String? imagenUrl; 
 
   Platillo({
     required this.id,

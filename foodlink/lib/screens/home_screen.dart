@@ -48,17 +48,17 @@ class HomeScreen extends StatelessWidget {
 
             // Tarjetas de platillos (Mock)
             _buildPlatilloCard(
-              '🌮 Tacos de Carnitas',
+              'Tacos de Carnitas',
               'Tortillas de maíz con carnitas, cebolla y cilantro',
             ),
             const SizedBox(height: 12),
             _buildPlatilloCard(
-              '🍲 Sopa de Verduras',
+              'Sopa de Verduras',
               'Caldo de verduras frescas con fideos',
             ),
             const SizedBox(height: 12),
             _buildPlatilloCard(
-              '🥗 Ensalada César',
+              'Ensalada César',
               'Lechuga, pollo, crutones y aderezo César',
             ),
           ],

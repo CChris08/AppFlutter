@@ -1,5 +1,5 @@
 /// Modelo de Incidencia para FoodLink
-/// Basado en los casos de uso C7, C8 del documento S-SDLC
+/// Basado en los casos de uso C7, C8 
 class Incidencia {
   final int id;
   final String idEmpleado; // ID del empleado que reporta
